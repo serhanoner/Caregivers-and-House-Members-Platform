@@ -285,6 +285,4 @@ INNER JOIN address t3 ON t2.member_user_id = t3.member_user_id
 WHERE t3.street = 'Kadirgalar Street';
 
 
-# Simple Queries;
-
 
