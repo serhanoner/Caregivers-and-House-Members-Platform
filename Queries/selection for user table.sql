@@ -1,0 +1,10 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (20) [user_id]
+      ,[email]
+      ,[given_name]
+      ,[surname]
+      ,[city]
+      ,[phone_number]
+      ,[profile_description]
+      ,[password]
+  FROM [EvdekiBakicim].[dbo].[User]

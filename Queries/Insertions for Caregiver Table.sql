@@ -1,0 +1,12 @@
+insert into [Caregiver] values(1, 'photos/a.yilmaz.png', 'F', 'Baby Sitter', 7.50);
+insert into [Caregiver] values(2, 'photos/a.cetinkaya.png', 'M', 'Elderly Care', 9.50);
+insert into [Caregiver] values(3, 'photos/d.karaca.png', 'F', 'Baby Sitter', 10);
+insert into [Caregiver] values(7, 'photos/m.celik.png', 'M', 'Baby Sitter', 9.50);
+insert into [Caregiver] values(9, 'photos/e.busra.png', 'F', 'Baby Sitter', 10);
+insert into [Caregiver] values(10, 'photos/h.kaya.png', 'F', 'Elderly Care', 7.50);
+insert into [Caregiver] values(11, 'photos/z.kocak.png', 'F', 'Elderly Care', 9.50);
+insert into [Caregiver] values(12, 'photos/m.karaca.png', 'M', 'Baby Sitter', 7.0);
+insert into [Caregiver] values(16, 'photos/m.ozturk.png', 'M', 'Baby Sitter', 11.2);
+insert into [Caregiver] values(18, 'photos/i.kaya.png', 'M', 'Baby Sitter', 9.3);
+insert into [Caregiver] values(19, 'photos/o.demir.png', 'F', 'Elderly Care', 6.4);
+insert into [Caregiver] values(20, 'photos/d.sahin.png', 'F', 'Elderly Care', 5.3);
